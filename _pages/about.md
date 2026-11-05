@@ -9,7 +9,7 @@ profile:
   image: ethan.jpeg
   image_circular: false
 
-selected_papers: false
+selected_papers: true
 social: false
 
 announcements:
