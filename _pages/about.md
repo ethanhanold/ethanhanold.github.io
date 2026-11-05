@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics PhD student · University of Wisconsin–Madison
+subtitle: hanold at wisc dot edu
 
 profile:
   align: right
