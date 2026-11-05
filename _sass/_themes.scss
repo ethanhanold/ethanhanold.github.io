@@ -203,10 +203,16 @@ html[data-theme-setting="light"] {
   color: var(--global-theme-color);
 }
 
+#light-toggle:hover .fa-half-sun-moon::after {
+  color: var(--global-theme-color);
+}
+
 a {
   font-weight: 700 !important;
 }
 
-#light-toggle:hover .fa-half-sun-moon::after {
-  color: var(--global-theme-color);
+@media (min-width: 768px) {
+  .post > article > .profile {
+    margin-top: -6rem;
+  }
 }
